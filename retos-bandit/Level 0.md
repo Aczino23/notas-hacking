@@ -11,6 +11,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 ![[Captura de pantalla_20230207_114810.png]]
 
+![[Captura de pantalla_20230207_114929.png]]
 
 ## Notas adicionales:
 Al acceder por primera vez se pide agregar el servidor a la lista de hosts conocidos, al ingresar estamos en un servidor de linux para pruebas. 
