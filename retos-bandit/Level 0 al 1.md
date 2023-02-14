@@ -1,16 +1,25 @@
 ## Objetivo:
-The password for the next level is stored in a file called - located in the home directory
+The password for the next level is stored in a file called **readme** located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game. 
 
 ## Datos de acceso al nivel:
-- **Host:** **bandit.labs.overthewire.org** 
+- **Host: bandit.labs.overthewire.org** 
+-  **Port:** 2220
 - **User:** bandit1 
-- **Password:** NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+- **Password:** bandit0
 
-## Solucion:
+## Solución:
+
+``` bash
+bandit0@bandit:~$ ls
+readme
+bandit0@bandit:~$ cat readme
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+bandit0@bandit:~$
+```
 
 ## Notas adicionales:
-Dentro del directorio actual se encuntra una archivo con nombre (-), como el guion es un caracter especial no se puede realizar una cat al archivo por lo cual lo que se debe hacer es realizar una cat al archivo pero poniendo la ruta completa del archivo "cat ./-"    
+- El comando **ls** se utiliza para listar archivos o directorios en Linux y otros sistemas operativos basados en Unix.
+- El comando de Linux **cat** concatena archivos y los muestra en el salida estándar.
 
 ## Referencias:
-- [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename)
-- [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)
+- [ls](https://man7.org/linux/man-pages/man1/ls.1.html) , [cd](https://man7.org/linux/man-pages/man1/cd.1p.html) , [cat](https://man7.org/linux/man-pages/man1/cat.1.html) , [file](https://man7.org/linux/man-pages/man1/file.1.html) , [du](https://man7.org/linux/man-pages/man1/du.1.html) , [find](https://man7.org/linux/man-pages/man1/find.1.html)

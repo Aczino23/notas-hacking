@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 0 al 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 0 al 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 0 al 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 0.md"
+                "file": "retos-bandit/Level 0 al 1.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c56cd012594b8b8f",
   "lastOpenFiles": [
-    "retos-bandit/Level 0 al 1.md",
     "retos-bandit/Level 0.md",
+    "retos-bandit/Level 0 al 1.md",
     "README.md",
     "Captura de pantalla_20230207_114929.png.md",
     "Captura de pantalla_20230207_114810.png.md",
