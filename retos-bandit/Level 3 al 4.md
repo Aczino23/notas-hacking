@@ -3,7 +3,7 @@ The password for the next level is stored in a hidden file in the **inhere** d
 
 ## Datos de acceso al nivel:
 - **Host: bandit.labs.overthewire.org** 
--  **Port:** 2220
+- **Port:** 2220
 - **User:** bandit3 
 - **Password:** aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
