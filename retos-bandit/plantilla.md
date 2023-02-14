@@ -8,7 +8,7 @@ Para documetar los retos de bandit usaremos la siguinte plantilla.
 
 ## Datos de acceso al nivel:
 
-## Solucion:
+## Solución:
 
 ## Notas adicionales:
 

@@ -7,7 +7,7 @@ The password for the next level is stored in a file called **-** located in th
 - **User:** bandit1 
 - **Password:** NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
-## Solucion:
+## Solución:
 ```bash
 bandit1@bandit:~$ ls
 -
