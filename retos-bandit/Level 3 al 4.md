@@ -26,13 +26,13 @@ bandit3@bandit:~/inhere$
 
 ## Notas adicionales:
 El comando **`ls -l`** para listar el contenido del directorio en un formato de tabla con columnas incluidas:
--   permisos de contenido
--   número de enlaces al contenido
--   propietario del contenido
--   propietario del grupo del contenido
--   tamaño del contenido en bytes
--   fecha / hora de la última modificación del contenido
--   nombre de archivo o directorio
+-   permisos de contenido.
+-   número de enlaces al contenido.
+-   propietario del contenido.
+-   propietario del grupo del contenido.
+-   tamaño del contenido en bytes.
+-   fecha / hora de la última modificación del contenido.
+-   nombre de archivo o directorio.
 
 El comando `ls -a` para listar archivos o directorios, incluidos archivos o directorios ocultos. En Linux, cualquier cosa que comience con un **`.`** se considera un archivo oculto.
 
