@@ -5,5 +5,8 @@
 Cristian Omar Alvarado Rodríguez.
 
 * Retos Bandit.
+* Pico CTF.
+* Hack The Box.
+
 
 
