@@ -4,7 +4,7 @@ The password for the next level is stored in a file called **readme** located 
 ## Datos de acceso al nivel:
 - **Host: bandit.labs.overthewire.org** 
 -  **Port:** 2220
-- **User:** bandit1 
+- **User:** bandit0 
 - **Password:** bandit0
 
 ## Solución:
