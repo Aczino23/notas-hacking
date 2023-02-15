@@ -71,9 +71,9 @@ find <startingdirectory> <options> <search term>
 
 El argumento **startingdirectory** es el punto de origen de donde deseas iniciar la búsqueda. Puede ser reemplazado con varios argumento, incluyendo:
 
--  **/ (slash)** – busca en todo el sistema. 
--   **. (punto)** – busca en la carpeta en la que estás trabajando actualmente (directorio actual).
--   **~ (tilde)** – para buscar desde tu directorio home.
+-  **/ (slash)**  – busca en todo el sistema. 
+-   **. (punto)**  – busca en la carpeta en la que estás trabajando actualmente (directorio actual).
+-   **~ (tilde)**  – para buscar desde tu directorio home.
 
 Linux te brinda la opción de buscar archivos según sus tamaños. La sintaxis básica para buscar archivos por tamaño es:
 
