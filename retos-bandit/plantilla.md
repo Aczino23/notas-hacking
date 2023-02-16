@@ -7,6 +7,10 @@ Para documetar los retos de bandit usaremos la siguinte plantilla.
 ## Objetivo:
 
 ## Datos de acceso al nivel:
+- **Host: bandit.labs.overthewire.org** 
+- **Port:** 2220
+- **User:** banditX
+- **Password:** 
 
 ## Solución:
 
