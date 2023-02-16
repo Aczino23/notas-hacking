@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b76250e616e56d0a",
+            "id": "139451f86f5fe9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 9 al 10.md",
+                "file": "retos-bandit/Level 10 al 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 9 al 10.md",
+                "file": "retos-bandit/Level 10 al 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 9 al 10.md",
+                "file": "retos-bandit/Level 10 al 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 9 al 10.md"
+                "file": "retos-bandit/Level 10 al 11.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b76250e616e56d0a",
+  "active": "139451f86f5fe9de",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Level 9 al 10.md",
-    "retos-bandit/Level 8 al 9.md",
     "retos-bandit/Level 7 al 8.md",
-    "retos-bandit/Level 6 al 7.md",
+    "retos-bandit/Level 8 al 9.md",
+    "retos-bandit/Level 9 al 10.md",
+    "retos-bandit/Level 10 al 11.md",
     "retos-bandit/Level 5 al 6.md",
     "retos-bandit/Level 4 al 5.md",
+    "retos-bandit/plantilla.md",
+    "retos-bandit/Level 6 al 7.md",
     "retos-bandit/Level 2 al 3.md",
-    "retos-bandit/Level 0.md",
-    "retos-bandit/Level 0 al 1.md"
+    "retos-bandit/Level 0.md"
   ]
 }
