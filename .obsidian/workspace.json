@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c84f80abd2add674",
+            "id": "7b89109dd914bebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 11 al 12.md",
+                "file": "retos-bandit/Level 12 al 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 11 al 12.md",
+                "file": "retos-bandit/Level 12 al 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 11 al 12.md",
+                "file": "retos-bandit/Level 12 al 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 11 al 12.md"
+                "file": "retos-bandit/Level 12 al 13.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c84f80abd2add674",
+  "active": "7b89109dd914bebc",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
     "retos-bandit/Level 11 al 12.md",
+    "retos-bandit/Level 12 al 13.md",
+    "retos-bandit/plantilla.md",
     "retos-bandit/Level 3 al 4.md",
     "retos-bandit/Level 2 al 3.md",
     "retos-bandit/Level 6 al 7.md",
     "retos-bandit/Level 4 al 5.md",
     "retos-bandit/Level 9 al 10.md",
     "retos-bandit/Level 10 al 11.md",
-    "retos-bandit/Level 1 al 2.md",
-    "retos-bandit/Level 7 al 8.md"
+    "retos-bandit/Level 1 al 2.md"
   ]
 }
