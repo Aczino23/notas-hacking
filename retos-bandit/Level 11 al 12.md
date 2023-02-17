@@ -47,12 +47,5 @@ bandit11@bandit:~$
 
 - El comando **`tr`** puede realizar operaciones como eliminar caracteres repetidos, convertir mayúsculas a minúsculas y reemplazar y eliminar caracteres básicos. Por lo general, se usa en combinación con otros comandos a través de tuberías.
 
-| Comando | Descripción |
-| ------- | ----------- |
-
-
-
-
-
 ## Referencias:
 - https://es.joecomp.com/tr-command-linux-with-examples

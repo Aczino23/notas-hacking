@@ -16,5 +16,8 @@ Para documetar los retos de bandit usaremos la siguinte plantilla.
 
 ## Notas adicionales:
 
+| Comando | Descripción |
+| --- | --- |
+
 ## Referencias:
 
