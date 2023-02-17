@@ -47,7 +47,7 @@ bandit11@bandit:~$
 
 - El comando **`tr`** puede realizar operaciones como eliminar caracteres repetidos, convertir mayúsculas a minúsculas y reemplazar y eliminar caracteres básicos. Por lo general, se usa en combinación con otros comandos a través de tuberías.
 
-| 23 | ldf |
+| Comando | Descripción |
 | ---- | --- |
 
 
