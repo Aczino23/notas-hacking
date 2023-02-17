@@ -42,13 +42,15 @@ bandit11@bandit:~$
 ## Notas adicionales:
 
 | Comando | Descripción |
-| --- | ---| ---|
+| --- |  ---|
 | tr | `tr` es una utilidad de línea de comandos en sistemas Linux y Unix que traduce, elimina y exprime caracteres de la entrada estándar y escribe el resultado en la salida estándar.
 
 - El comando **`tr`** puede realizar operaciones como eliminar caracteres repetidos, convertir mayúsculas a minúsculas y reemplazar y eliminar caracteres básicos. Por lo general, se usa en combinación con otros comandos a través de tuberías.
 
 | Comando | Descripción |
-| ---- | --- |
+| ------- | ----------- |
+
+
 
 
 
