@@ -1,6 +1,6 @@
 # Retos Bandit
 
-Para documetar los retos de bandit usaremos la siguinte plantilla.
+Para documentar los retos de bandit usaremos la siguiente plantilla.
 
 # Level X
 

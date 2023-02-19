@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4ac68aa66eff33",
+        "id": "39fc5f95e0cda64a",
         "type": "tabs",
         "children": [
           {
-            "id": "2487626d96821cf0",
+            "id": "2c88fb1e3df2cb06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5d3cdf7cf5a57c73",
+            "id": "ab45e8b1c223cbb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 15 al 16.md",
+                "file": "retos-bandit/Level 16 al 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 15 al 16.md",
+                "file": "retos-bandit/Level 16 al 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 15 al 16.md",
+                "file": "retos-bandit/Level 16 al 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 15 al 16.md"
+                "file": "retos-bandit/Level 16 al 17.md"
               }
             }
           }
@@ -159,17 +159,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d3cdf7cf5a57c73",
+  "active": "ab45e8b1c223cbb1",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
-    "retos-bandit/Level 15 al 16.md",
-    "retos-bandit/Level 14 al 15.md",
-    "retos-bandit/Level 13 al 14.md",
-    "retos-bandit/Level 12 al 13.md",
     "retos-bandit/Level 11 al 12.md",
+    "retos-bandit/Level 13 al 14.md",
+    "retos-bandit/Level 15 al 16.md",
+    "retos-bandit/Level 16 al 17.md",
+    "retos-bandit/plantilla.md",
+    "Maquinas-HTB/Plantilla.md",
+    "retos-bandit/Level 14 al 15.md",
+    "retos-bandit/Level 12 al 13.md",
     "retos-bandit/Level 3 al 4.md",
-    "retos-bandit/Level 2 al 3.md",
-    "retos-bandit/Level 6 al 7.md",
-    "retos-bandit/Level 4 al 5.md"
+    "retos-bandit/Level 2 al 3.md"
   ]
 }
