@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "945b59b6759ff219",
+            "id": "bfd656a60ee01d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 18 al 19.md",
+                "file": "retos-bandit/Level 19 al 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 18 al 19.md",
+                "file": "retos-bandit/Level 19 al 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 18 al 19.md",
+                "file": "retos-bandit/Level 19 al 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 18 al 19.md"
+                "file": "retos-bandit/Level 19 al 20.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "945b59b6759ff219",
+  "active": "bfd656a60ee01d8a",
   "lastOpenFiles": [
     "retos-bandit/plantilla.md",
     "retos-bandit/Level 18 al 19.md",
