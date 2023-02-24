@@ -15,7 +15,6 @@ Para documentar los retos de bandit usaremos la siguiente plantilla.
 ## Solución:
 
 ## Notas adicionales:
-
 | Comando | Descripción |
 | --- | --- |
 

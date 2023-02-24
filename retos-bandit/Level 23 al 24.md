@@ -130,6 +130,7 @@ bandit23@bandit:/tmp/tmpPass$
 | Comando | Descripción |
 | --- | --- |
 | touch | El comando touch de Linux se usa principalmente para crear archivos vacíos y cambiar marcas de tiempo de archivos o carpetas. |
+| chmod | El comando CHMOD son utilizamos para gestionar los permisos de archivos y directorios dentro del sistema. |
 
 ## Referencias:
 - https://dinahosting.com/ayuda/como-configurar-tareas-cron-de-forma-manual/
