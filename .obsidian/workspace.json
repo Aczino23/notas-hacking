@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "554ae30d5cbebc64",
+            "id": "08fe5d4407066a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 28 al 29.md",
+                "file": "retos-bandit/Level 29 al 30.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 28 al 29.md",
+                "file": "retos-bandit/Level 29 al 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 28 al 29.md",
+                "file": "retos-bandit/Level 29 al 30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 28 al 29.md"
+                "file": "retos-bandit/Level 29 al 30.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "554ae30d5cbebc64",
+  "active": "08fe5d4407066a58",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
     "retos-bandit/Level 28 al 29.md",
+    "retos-bandit/Level 29 al 30.md",
+    "retos-bandit/plantilla.md",
     "retos-bandit/Level 27 al 28.md",
     "retos-bandit/Level 26 al 27.md",
     "retos-bandit/Level 25 al 26.md",
