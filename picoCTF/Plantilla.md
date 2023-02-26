@@ -6,9 +6,9 @@ Para documentar los retos de picoCTF usaremos la siguiente plantilla.
 
 ## Objetivo:
 
-
 ## Solución:
 
+**flag:** picoCTF{xxxxxx...}
 
 ## Notas adicionales:
 | Comando | Descripción |
