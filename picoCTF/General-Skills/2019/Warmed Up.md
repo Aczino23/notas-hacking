@@ -4,7 +4,7 @@ What is 0x3D (base 16) in decimal (base 10)?
 **Hints:** Submit your answer in our flag format. For example, if your answer was '22', you would submit 'picoCTF{22}' as the flag.
 
 ## Solución:
-Con ayuda de la siguiente pagina logramos convertir de hexadecimal (base 16) 3D a decimal (base 10):
+Con ayuda de la siguiente pagina logramos convertir de hexadecimal (base 16) 3D a decimal (base 10): https://www.rapidtables.com/convert/number/hex-to-decimal.html
 
 Base 16: 3D 
 Base 10: 61
