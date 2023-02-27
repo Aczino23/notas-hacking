@@ -6,6 +6,8 @@ Para documentar los retos de picoCTF usaremos la siguiente plantilla.
 
 ## Objetivo:
 
+**Hints:**
+
 ## Solución:
 
 **flag:** picoCTF{xxxxxx...}

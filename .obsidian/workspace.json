@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c93b7bcfe181c63c",
+        "id": "7af5a00debc4910c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ef7b8d1856e5dd",
+            "id": "0b56fdd29765d071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-Skills/2019/Warmed Up.md",
+                "file": "picoCTF/General-Skills/2019/2Warm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/General-Skills/2019/Warmed Up.md",
+                "file": "picoCTF/General-Skills/2019/2Warm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/General-Skills/2019/Warmed Up.md",
+                "file": "picoCTF/General-Skills/2019/2Warm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/General-Skills/2019/Warmed Up.md"
+                "file": "picoCTF/General-Skills/2019/2Warm.md"
               }
             }
           }
@@ -146,19 +146,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6ef7b8d1856e5dd",
+  "active": "0b56fdd29765d071",
   "lastOpenFiles": [
-    "picoCTF/Plantilla.md",
     "picoCTF/General-Skills/2019/Warmed Up.md",
+    "picoCTF/General-Skills/2021/Python Wrangling.md",
+    "picoCTF/General-Skills/2019/2Warm.md",
+    "picoCTF/Plantilla.md",
     "picoCTF/General-Skills/2019/Lets Warm Up.md",
+    "picoCTF/General-Skills/2022",
+    "picoCTF/General-Skills/2021",
+    "retos-bandit/Level 0.md",
+    "retos-bandit/Level 29 al 30.md",
+    "retos-bandit/Level 32 al 33.md",
     "retos-bandit/plantilla.md",
     "picoCTF/General-Skills/2019",
     "picoCTF/General-Skills",
     "picoCTF",
-    "retos-bandit/Level 32 al 33.md",
     "retos-bandit/Level 31 al 32.md",
     "retos-bandit/Level 30 al 31.md",
-    "retos-bandit/Level 29 al 30.md",
     "retos-bandit/Level 28 al 29.md",
     "retos-bandit/Level 27 al 28.md",
     "retos-bandit/Level 26 al 27.md",
@@ -173,9 +178,6 @@
     "retos-bandit/Level 16 al 17.md",
     "retos-bandit/Level 15 al 16.md",
     "retos-bandit/Level 14 al 15.md",
-    "retos-bandit/Level 24 al 25.md",
-    "retos-bandit/Level 23 al 24.md",
-    "retos-bandit/Level 22 al 23.md",
-    "retos-bandit/Level 21 al 22.md"
+    "retos-bandit/Level 24 al 25.md"
   ]
 }
