@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-Skills/2019/2Warm.md",
+                "file": "picoCTF/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b68a6612cca78f68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General-Skills/2019/plumbing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/General-Skills/2019/2Warm.md",
+                "file": "picoCTF/General-Skills/2019/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/General-Skills/2019/2Warm.md",
+                "file": "picoCTF/General-Skills/2019/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/General-Skills/2019/2Warm.md"
+                "file": "picoCTF/General-Skills/2019/plumbing.md"
               }
             }
           }
@@ -146,13 +159,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0b56fdd29765d071",
+  "active": "b68a6612cca78f68",
   "lastOpenFiles": [
+    "picoCTF/General-Skills/2019/strings it.md",
+    "picoCTF/General-Skills/2019/Bases.md",
+    "picoCTF/General-Skills/2019/First Grep.md",
+    "picoCTF/General-Skills/2019/Lets Warm Up.md",
+    "picoCTF/General-Skills/2019/plumbing.md",
+    "picoCTF/General-Skills/2019/what's a net cat.md",
     "picoCTF/General-Skills/2019/Warmed Up.md",
-    "picoCTF/General-Skills/2021/Python Wrangling.md",
+    "picoCTF/General-Skills/2019/Based.md",
     "picoCTF/General-Skills/2019/2Warm.md",
     "picoCTF/Plantilla.md",
-    "picoCTF/General-Skills/2019/Lets Warm Up.md",
+    "picoCTF/General-Skills/2019/Untitled",
+    "picoCTF/General-Skills/2021/Python Wrangling.md",
     "picoCTF/General-Skills/2022",
     "picoCTF/General-Skills/2021",
     "retos-bandit/Level 0.md",
@@ -172,12 +192,6 @@
     "retos-bandit/Level 11 al 12.md",
     "retos-bandit/Level 10 al 11.md",
     "retos-bandit/Level 9 al 10.md",
-    "retos-bandit/Level 20 al 21.md",
-    "retos-bandit/Level 19 al 20.md",
-    "retos-bandit/Level 18 al 19.md",
-    "retos-bandit/Level 16 al 17.md",
-    "retos-bandit/Level 15 al 16.md",
-    "retos-bandit/Level 14 al 15.md",
-    "retos-bandit/Level 24 al 25.md"
+    "retos-bandit/Level 20 al 21.md"
   ]
 }
