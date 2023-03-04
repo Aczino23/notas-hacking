@@ -59,7 +59,7 @@ Al conectarnos por **netcat** al host obtenemos una serie de números:
 
 Lo que hacemos es obtener el carácter en ASCII de cada numero para así formar la flag, para realizar esto hacemos uso de la pagina [Cipher Identifier](https://www.dcode.fr/ascii-code)
 
-**flag:** picoCTF{g00d_k1tty!_n1c3_k1tty!_afd5fda4}
+### **flag:** picoCTF{g00d_k1tty!_n1c3_k1tty!_afd5fda4}
 
 ## Notas adicionales:
 - **ASCII** ([acrónimo](https://es.wikipedia.org/wiki/Acr%C3%B3nimo "Acrónimo") [inglés](https://es.wikipedia.org/wiki/Idioma_ingl%C3%A9s "Idioma inglés") de _American Standard Code for Information Interchange_ —Código Estándar estadounidense para el Intercambio de Información—), pronunciado generalmente [áski][1](https://es.wikipedia.org/wiki/ASCII#cite_note-Mackenzie_1980-1)​: 6  o (rara vez) [ásθi] o [ási], es un [código de caracteres](https://es.wikipedia.org/wiki/Codificaci%C3%B3n_de_caracteres "Codificación de caracteres") basado en el [alfabeto latino](https://es.wikipedia.org/wiki/Alfabeto_latino "Alfabeto latino"), tal como se usa en inglés moderno. Fue creado en 1963 por el Comité Estadounidense de Estándares (ASA, conocido desde 1969 como el Instituto Estadounidense de Estándares Nacionales, o [ANSI](https://es.wikipedia.org/wiki/Instituto_Nacional_Estadounidense_de_Est%C3%A1ndares "Instituto Nacional Estadounidense de Estándares")) como una evolución de los conjuntos de códigos utilizados entonces en [telegrafía](https://es.wikipedia.org/wiki/Telegraf%C3%ADa "Telegrafía"). Más tarde, en 1967, se incluyeron las minúsculas, y se redefinieron algunos códigos de control para formar el código conocido como **US-ASCII.**

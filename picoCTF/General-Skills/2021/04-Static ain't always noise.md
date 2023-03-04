@@ -18,8 +18,7 @@ picoCTF{d15a5m_t34s3r_6f8c8200}
 └─$
 ```
 
-
-**flag:** picoCTF{d15a5m_t34s3r_6f8c8200}
+### **flag:** picoCTF{d15a5m_t34s3r_6f8c8200}
 
 ## Notas adicionales:
 | Comando | Descripción |

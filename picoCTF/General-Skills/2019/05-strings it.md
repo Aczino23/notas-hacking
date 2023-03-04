@@ -14,7 +14,7 @@ picoCTF{5tRIng5_1T_d66c7bb7}
 └─$ 
 ```
 
-**flag:** picoCTF{5tRIng5_1T_d66c7bb7}
+### **flag:** picoCTF{5tRIng5_1T_d66c7bb7}
 
 ## Notas adicionales:
 | Comando | Descripción |

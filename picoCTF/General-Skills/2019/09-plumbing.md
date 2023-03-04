@@ -11,12 +11,12 @@ Sometimes you need to handle process data outside of a file. Can you find a way 
 ┌──(kali㉿kali)-[~]
 └─$ nc jupiter.challenges.picoctf.org 14291 | grep picoCTF
 picoCTF{digital_plumb3r_ea8bfec7}
-                                                                                                     
+
 ┌──(kali㉿kali)-[~]
 └─$ 
 ```
 
-**flag:** picoCTF{digital_plumb3r_ea8bfec7}
+### **flag:** picoCTF{digital_plumb3r_ea8bfec7}
 
 ## Notas adicionales:
 | Comando | Descripción |

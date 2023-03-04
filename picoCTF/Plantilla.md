@@ -10,7 +10,7 @@ Para documentar los retos de picoCTF usaremos la siguiente plantilla.
 
 ## Solución:
 
-**flag:** picoCTF{xxxxxx...}
+### Flag: picoCTF{xxxxxx...}
 
 ## Notas adicionales:
 | Comando | Descripción |

@@ -13,7 +13,7 @@ p
 └─$ 
 ```
 
-**flag**: picoCTF{p}
+### **flag**: picoCTF{p}
 
 ## Notas adicionales:
 | Comando | Descripción |

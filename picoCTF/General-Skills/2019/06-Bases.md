@@ -6,7 +6,7 @@ What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do wit
 ## Solución:
 Usando la herramienta [**CyberChef**](https://gchq.github.io/CyberChef/) nos damos cuenta que la cadena esta codificada en base 64, por lo que al momento de descodificar la cadena obtenemos la flag.  
 
-**flag:** picoCTF{l3arn_th3_r0p35}
+### **flag:** picoCTF{l3arn_th3_r0p35}
 
 ## Notas adicionales:
 

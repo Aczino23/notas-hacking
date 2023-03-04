@@ -22,7 +22,7 @@ fang-of-haynekhtnamet
 └─$
 ```
 
-**flag:** picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
+### **flag:** picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
 
 ## Notas adicionales:
 | Comando | Descripción |

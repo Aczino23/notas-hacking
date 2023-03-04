@@ -15,7 +15,7 @@ picoCTF{nEtCat_Mast3ry_d0c64587}
 └─$ 
 ```
 
-**flag:** picoCTF{nEtCat_Mast3ry_d0c64587
+### **flag:** picoCTF{nEtCat_Mast3ry_d0c64587
 
 ## Notas adicionales:
 - El comando `nc` es un comando de sistemas Unix que se usa para llevar a cabo diversas tareas de red. Funciona en sistemas nix como Linux, BSD o macOS. Aunque el comando se usa abreviadamente como `nc`, su nombre completo es [Netcat](https://es.wikipedia.org/wiki/Netcat).
