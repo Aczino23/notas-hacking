@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4187399cf1d29729",
+        "id": "cbe64c5678300b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6f80966a5ca1c9",
+            "id": "8715c5716d3b94d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,14 +138,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d6f80966a5ca1c9",
+  "active": "8715c5716d3b94d1",
   "lastOpenFiles": [
+    "picoCTF/web/2019/06-Client-side-again.md",
+    "picoCTF/web/2019/05-picobrowser.md",
+    "picoCTF/web/Retos.md",
+    "picoCTF/web/2019/04-dont-use-client-side.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/web/2019/03-logon.md",
+    "picoCTF/web/2019/01-Insp3ct0r.md",
+    "picoCTF/web/2019",
+    "picoCTF/web/2019/02-where are the robots.md",
+    "picoCTF/General-Skills/2019/01-Lets Warm Up.md",
+    "picoCTF/web",
     "picoCTF/General-Skills/2019/06-Bases.md",
     "picoCTF/General-Skills/2019/05-strings it.md",
     "picoCTF/General-Skills/2019/04-what's a net cat.md",
     "picoCTF/General-Skills/2019/03-2Warm.md",
     "picoCTF/General-Skills/2019/02-Warmed Up.md",
-    "picoCTF/General-Skills/2019/01-Lets Warm Up.md",
     "picoCTF/General-Skills/2022/09-PW Crack 3.md",
     "picoCTF/General-Skills/2022/08-PW Crack 2.md",
     "picoCTF/General-Skills/2019/07-First Grep.md",
@@ -158,14 +168,6 @@
     "picoCTF/General-Skills/2021/03-Nice netcat.md",
     "picoCTF/General-Skills/2021/02-Wave a flag.md",
     "picoCTF/General-Skills/2021/01-Obedient Cat.md",
-    "picoCTF/General-Skills/2022/01-runme.py.md",
-    "picoCTF/General-Skills/2022/02-convertme.py.md",
-    "picoCTF/General-Skills/2022/03-Codebook.md",
-    "picoCTF/General-Skills/2022/04-fixme1.py.md",
-    "picoCTF/General-Skills/2022/05-fixme2.py.md",
-    "picoCTF/General-Skills/2022/06-Glitch Cat.md",
-    "picoCTF/General-Skills/2022/07-PW Crack 1.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/General-Skills/2019/Untitled",
     "picoCTF/General-Skills/2022",
     "picoCTF/General-Skills/2021",
