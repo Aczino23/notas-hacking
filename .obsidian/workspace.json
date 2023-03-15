@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "554eea820a8c5a07",
+        "id": "54e69d447584d1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "cd0dfd381e5b4e6c",
+            "id": "30799c42c5f054f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3b8dcc7da75e0c11",
+  "active": "30799c42c5f054f2",
   "lastOpenFiles": [
+    "Maquinas-HTB/Plantilla.md",
+    "Plantilla-picoCTF.md",
     "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
     "Actividad 06- Retos web parte 2/Pasted image 20230315143922.png",
     "Actividad 06- Retos web parte 2/Pasted image 20230315143821.png",
@@ -158,7 +160,6 @@
     "Actividad 05- Retos web parte 1/05-picobrowser.md",
     "Actividad 05- Retos web parte 1/06-Client-side-again.md",
     "README.md",
-    "Untitled.md",
     "ExamenParcial_01",
     "picoCTF-2019/Binary-Exploitation/01-seed-sPRiNG.md",
     "picoCTF-2019/Binary-Exploitation/2019",
