@@ -8,7 +8,7 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/582
 ## Solución:
 1. Vemos que se realiza una autenticación por JWT token en la pagina: 
 
-![[Pasted image 20230315135744.png]]
+![[img1.png]]
 
 2. Con ayuda de de [jwt.io](https://jwt.io/introduction) descodificamos en token y vemos su contenido:
 
