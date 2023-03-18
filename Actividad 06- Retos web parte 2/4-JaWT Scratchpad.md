@@ -32,6 +32,7 @@ Session completed.
 └─$
 ```
 
+
 ![[Pasted image 20230315143821.png]]
 
 4. Por ultimo enviamos el token a la página y obtenemos la flag:

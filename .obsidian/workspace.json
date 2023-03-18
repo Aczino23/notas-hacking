@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "54e69d447584d1cd",
+        "id": "a962d2138ef2a135",
         "type": "tabs",
         "children": [
           {
-            "id": "30799c42c5f054f2",
+            "id": "f2fe96372bc698ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png"
+              }
+            }
+          },
+          {
+            "id": "d105d7432af5a196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md"
+              }
             }
           }
         ]
@@ -138,18 +157,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "30799c42c5f054f2",
+  "active": "d105d7432af5a196",
   "lastOpenFiles": [
+    "Actividad 06- Retos web parte 2/01-Irish-Name-Repo 1.md",
+    "Actividad 06- Retos web parte 2/02-Irish-Name-Repo 2.md",
+    "Actividad 06- Retos web parte 2/03-Irish-Name-Repo 3.md",
+    "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
+    "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png",
+    "Actividad 06- Retos web parte 2/Pasted image 20230315140239.png",
+    "retos-bandit/Level 32 al 33.md",
+    "retos-bandit/Level 14 al 15.md",
     "Maquinas-HTB/Plantilla.md",
     "Plantilla-picoCTF.md",
-    "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
     "Actividad 06- Retos web parte 2/Pasted image 20230315143922.png",
     "Actividad 06- Retos web parte 2/Pasted image 20230315143821.png",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315140239.png",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png",
-    "Actividad 06- Retos web parte 2/03-Irish-Name-Repo 3.md",
-    "Actividad 06- Retos web parte 2/02-Irish-Name-Repo 2.md",
-    "Actividad 06- Retos web parte 2/01-Irish-Name-Repo 1.md",
     "Actividad 05- Retos web parte 1/04-dont-use-client-side.md",
     "Actividad 06- Retos web parte 2",
     "Actividad 05- Retos web parte 1/03-logon.md",
@@ -174,9 +195,6 @@
     "ExamenParcial_01/General-Skills/2019/05-strings it.md",
     "ExamenParcial_01/General-Skills/2019/04-what's a net cat.md",
     "ExamenParcial_01/General-Skills/2019/03-2Warm.md",
-    "ExamenParcial_01/General-Skills/2019/02-Warmed Up.md",
-    "ExamenParcial_01/General-Skills/2022/09-PW Crack 3.md",
-    "ExamenParcial_01/General-Skills/2022/08-PW Crack 2.md",
     "picoCTF/General-Skills/2019/Untitled",
     "ExamenParcial_01/General-Skills/2022",
     "ExamenParcial_01/General-Skills/2021"
