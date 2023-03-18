@@ -8,7 +8,7 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/582
 ## Solución:
 1. Vemos que se realiza una autenticación por JWT token en la pagina: 
 
-![[img1.png]]
+![Pasted image 20230315135744](Pasted%20image%2020230315135744.png)
 
 2. Con ayuda de de [jwt.io](https://jwt.io/introduction) descodificamos en token y vemos su contenido:
 
@@ -28,7 +28,7 @@ ilovepico        (?)
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed. 
                                                                             
-┌──(alexia㉿kali)-[~]
+┌──(kali㉿kali)-[~]
 └─$
 ```
 
