@@ -12,7 +12,8 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/582
 
 2. Con ayuda de de [jwt.io](https://jwt.io/introduction) descodificamos en token y vemos su contenido:
 
-![[Pasted image 20230315140239.png]]
+![Pasted image 20230315140239](Pasted%20image%2020230315140239.png)
+
 
 3. Vemos que el token tiene una firma por lo que intentamos crackearla usando la herramienta John the Ripper: 
 
@@ -32,12 +33,11 @@ Session completed.
 └─$
 ```
 
-
-![[Pasted image 20230315143821.png]]
+![Pasted image 20230315143821](Pasted%20image%2020230315143821.png)
 
 4. Por ultimo enviamos el token a la página y obtenemos la flag:
 
-![[Pasted image 20230315143922.png]]
+![Pasted image 20230315143922](Pasted%20image%2020230315143922.png)
 
 ### Flag: picoCTF{jawt_was_just_what_you_thought_44c752f5}
 

@@ -11,16 +11,6 @@
             "id": "f2fe96372bc698ab",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png"
-              }
-            }
-          },
-          {
-            "id": "d105d7432af5a196",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,14 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d105d7432af5a196",
+  "active": "f2fe96372bc698ab",
   "lastOpenFiles": [
+    "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png",
+    "Pasted image 20230315143822.png.md",
+    "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
     "img1.png",
     "Actividad 06- Retos web parte 2/01-Irish-Name-Repo 1.md",
     "Actividad 06- Retos web parte 2/02-Irish-Name-Repo 2.md",
     "Actividad 06- Retos web parte 2/03-Irish-Name-Repo 3.md",
-    "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png",
     "Actividad 06- Retos web parte 2/Pasted image 20230315140239.png",
     "retos-bandit/Level 32 al 33.md",
     "retos-bandit/Level 14 al 15.md",
@@ -195,7 +185,6 @@
     "ExamenParcial_01/General-Skills/2019/06-Bases.md",
     "ExamenParcial_01/General-Skills/2019/05-strings it.md",
     "ExamenParcial_01/General-Skills/2019/04-what's a net cat.md",
-    "ExamenParcial_01/General-Skills/2019/03-2Warm.md",
     "picoCTF/General-Skills/2019/Untitled",
     "ExamenParcial_01/General-Skills/2022",
     "ExamenParcial_01/General-Skills/2021"
