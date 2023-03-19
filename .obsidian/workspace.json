@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a962d2138ef2a135",
+        "id": "9c975d67bd38eefd",
         "type": "tabs",
         "children": [
           {
-            "id": "f2fe96372bc698ab",
+            "id": "3774ac5f7c535751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
+                "file": "Plantilla-picoCTF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29be9afa8eac0933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
+                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
+                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md"
+                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md"
               }
             }
           }
@@ -146,31 +159,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f2fe96372bc698ab",
+  "active": "29be9afa8eac0933",
   "lastOpenFiles": [
-    "Actividad 06- Retos web parte 2/Pasted image 20230315135744.png",
+    "Plantilla-picoCTF.md",
+    "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
+    "Actividad 07-Retos web parte 3/02-Cookies.md",
+    "Actividad 07-Retos web parte 3/01-GET aHEAD.md",
+    "Actividad 07-Retos web parte 3/Pasted image 20230319115223.png",
+    "Actividad 07-Retos web parte 3/Pasted image 20230319114838.png",
+    "Actividad 06-Retos web parte 2/4-JaWT Scratchpad.md",
+    "Actividad 06-Retos web parte 2/03-Irish-Name-Repo 3.md",
+    "Actividad 06-Retos web parte 2/02-Irish-Name-Repo 2.md",
+    "Actividad 06-Retos web parte 2/01-Irish-Name-Repo 1.md",
+    "Actividad 05-Retos web parte 1/02-where are the robots.md",
+    "Actividad 05-Retos web parte 1/05-picobrowser.md",
+    "Actividad 07-Retos web parte 3",
+    "Actividad 06-Retos web parte 2/Pasted image 20230315135744.png",
     "Pasted image 20230315143822.png.md",
-    "Actividad 06- Retos web parte 2/4-JaWT Scratchpad.md",
     "img1.png",
-    "Actividad 06- Retos web parte 2/01-Irish-Name-Repo 1.md",
-    "Actividad 06- Retos web parte 2/02-Irish-Name-Repo 2.md",
-    "Actividad 06- Retos web parte 2/03-Irish-Name-Repo 3.md",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315140239.png",
+    "Actividad 06-Retos web parte 2/Pasted image 20230315140239.png",
     "retos-bandit/Level 32 al 33.md",
     "retos-bandit/Level 14 al 15.md",
     "Maquinas-HTB/Plantilla.md",
-    "Plantilla-picoCTF.md",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315143922.png",
-    "Actividad 06- Retos web parte 2/Pasted image 20230315143821.png",
-    "Actividad 05- Retos web parte 1/04-dont-use-client-side.md",
-    "Actividad 06- Retos web parte 2",
-    "Actividad 05- Retos web parte 1/03-logon.md",
-    "Actividad 05- Retos web parte 1/02-where are the robots.md",
-    "Actividad 05- Retos web parte 1/01-Insp3ct0r.md",
-    "Actividad 05- Retos web parte 1",
+    "Actividad 06-Retos web parte 2/Pasted image 20230315143922.png",
+    "Actividad 06-Retos web parte 2/Pasted image 20230315143821.png",
+    "Actividad 05-Retos web parte 1/04-dont-use-client-side.md",
+    "Actividad 06-Retos web parte 2",
+    "Actividad 05-Retos web parte 1/03-logon.md",
+    "Actividad 05-Retos web parte 1/01-Insp3ct0r.md",
+    "Actividad 05-Retos web parte 1",
     "picoCTF-2019/Plantilla.md",
-    "Actividad 05- Retos web parte 1/05-picobrowser.md",
-    "Actividad 05- Retos web parte 1/06-Client-side-again.md",
+    "Actividad 05-Retos web parte 1/06-Client-side-again.md",
     "README.md",
     "ExamenParcial_01",
     "picoCTF-2019/Binary-Exploitation/01-seed-sPRiNG.md",
@@ -183,10 +202,7 @@
     "ExamenParcial_01/General-Skills/2019/01-Lets Warm Up.md",
     "picoCTF-2019/web",
     "ExamenParcial_01/General-Skills/2019/06-Bases.md",
-    "ExamenParcial_01/General-Skills/2019/05-strings it.md",
-    "ExamenParcial_01/General-Skills/2019/04-what's a net cat.md",
     "picoCTF/General-Skills/2019/Untitled",
-    "ExamenParcial_01/General-Skills/2022",
-    "ExamenParcial_01/General-Skills/2021"
+    "ExamenParcial_01/General-Skills/2022"
   ]
 }

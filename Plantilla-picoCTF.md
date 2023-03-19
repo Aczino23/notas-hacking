@@ -11,6 +11,8 @@ Para documentar las soluciones a la diferentes retos de picoCTF
 
 ## Solución:
 
+### Flag: 
+
 ## Notas adicionales:
 | Comando | Descripción |
 | --- | --- |
