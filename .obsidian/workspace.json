@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "29be9afa8eac0933",
+            "id": "319e0990164afdd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
+                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 290.5
   },
   "right": {
     "id": "617259f452c73c8d",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
+                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
+                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md"
+                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md"
               }
             }
           }
@@ -159,9 +159,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "29be9afa8eac0933",
+  "active": "319e0990164afdd2",
   "lastOpenFiles": [
+    "Actividad 08-Retos forensic parte 1/04-extensions.md",
+    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
+    "Actividad 08-Retos forensic parte 1/02-So Meta.md",
+    "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
+    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
     "Plantilla-picoCTF.md",
+    "Pasted image 20230323124229.png",
+    "Actividad 08-Retos forensic parte 1/Pasted image 20230323124117.png",
+    "Actividad 08-Retos forensic parte 1/Pasted image 20230323122606.png",
+    "Actividad 08-Retos forensic parte 1",
     "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
     "Actividad 07-Retos web parte 3/02-Cookies.md",
     "Actividad 07-Retos web parte 3/01-GET aHEAD.md",
@@ -194,15 +203,9 @@
     "ExamenParcial_01",
     "picoCTF-2019/Binary-Exploitation/01-seed-sPRiNG.md",
     "picoCTF-2019/Binary-Exploitation/2019",
-    "picoCTF/Binary-Exploitation/Untitled.md",
-    "picoCTF/Untitled.md",
     "picoCTF-2019/Binary-Exploitation",
-    "picoCTF/web/Retos.md",
     "picoCTF-2019/web/2019",
-    "ExamenParcial_01/General-Skills/2019/01-Lets Warm Up.md",
     "picoCTF-2019/web",
-    "ExamenParcial_01/General-Skills/2019/06-Bases.md",
-    "picoCTF/General-Skills/2019/Untitled",
-    "ExamenParcial_01/General-Skills/2022"
+    "picoCTF/General-Skills/2019/Untitled"
   ]
 }
