@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c975d67bd38eefd",
+        "id": "ccb23ccb93a0a3af",
         "type": "tabs",
         "children": [
           {
-            "id": "3774ac5f7c535751",
+            "id": "3ddda990730fa25b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla-picoCTF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "319e0990164afdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Actividad 08-Retos forensic parte 1/05- What Lies Within.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,23 +138,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "319e0990164afdd2",
+  "active": "3ddda990730fa25b",
   "lastOpenFiles": [
-    "Actividad 08-Retos forensic parte 1/04-extensions.md",
-    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
-    "Actividad 08-Retos forensic parte 1/02-So Meta.md",
-    "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
-    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
     "Plantilla-picoCTF.md",
-    "Pasted image 20230323124229.png",
-    "Actividad 08-Retos forensic parte 1/Pasted image 20230323124117.png",
-    "Actividad 08-Retos forensic parte 1/Pasted image 20230323122606.png",
+    "Retos.md",
+    "Actividad 09-Retos forensic parte 2/05-shark on wire 2.md",
+    "Actividad 09-Retos forensic parte 2/04-like1000.md",
+    "Actividad 09-Retos forensic parte 2/03-c0rrupt.md",
+    "Actividad 09-Retos forensic parte 2/02-WhitePages.md",
+    "Actividad 09-Retos forensic parte 2/01-m00nwalk.md",
+    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328211533.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210818.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210356.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210310.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328205421.png",
+    "Actividad 08-Retos forensic parte 1/02-So Meta.md",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230328130642.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230326221716.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230326221420.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230326215821.png",
+    "Actividad 09-Retos forensic parte 2/Pasted image 20230326215222.png",
+    "README.md",
+    "Actividad 09-Retos forensic parte 2",
+    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
+    "Actividad 08-Retos forensic parte 1/04-extensions.md",
+    "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
     "Actividad 08-Retos forensic parte 1",
     "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
     "Actividad 07-Retos web parte 3/02-Cookies.md",
     "Actividad 07-Retos web parte 3/01-GET aHEAD.md",
-    "Actividad 07-Retos web parte 3/Pasted image 20230319115223.png",
-    "Actividad 07-Retos web parte 3/Pasted image 20230319114838.png",
     "Actividad 06-Retos web parte 2/4-JaWT Scratchpad.md",
     "Actividad 06-Retos web parte 2/03-Irish-Name-Repo 3.md",
     "Actividad 06-Retos web parte 2/02-Irish-Name-Repo 2.md",
@@ -183,29 +175,15 @@
     "Actividad 05-Retos web parte 1/02-where are the robots.md",
     "Actividad 05-Retos web parte 1/05-picobrowser.md",
     "Actividad 07-Retos web parte 3",
-    "Actividad 06-Retos web parte 2/Pasted image 20230315135744.png",
     "Pasted image 20230315143822.png.md",
-    "img1.png",
-    "Actividad 06-Retos web parte 2/Pasted image 20230315140239.png",
     "retos-bandit/Level 32 al 33.md",
     "retos-bandit/Level 14 al 15.md",
-    "Maquinas-HTB/Plantilla.md",
-    "Actividad 06-Retos web parte 2/Pasted image 20230315143922.png",
-    "Actividad 06-Retos web parte 2/Pasted image 20230315143821.png",
-    "Actividad 05-Retos web parte 1/04-dont-use-client-side.md",
     "Actividad 06-Retos web parte 2",
-    "Actividad 05-Retos web parte 1/03-logon.md",
-    "Actividad 05-Retos web parte 1/01-Insp3ct0r.md",
     "Actividad 05-Retos web parte 1",
-    "picoCTF-2019/Plantilla.md",
-    "Actividad 05-Retos web parte 1/06-Client-side-again.md",
-    "README.md",
     "ExamenParcial_01",
-    "picoCTF-2019/Binary-Exploitation/01-seed-sPRiNG.md",
     "picoCTF-2019/Binary-Exploitation/2019",
     "picoCTF-2019/Binary-Exploitation",
     "picoCTF-2019/web/2019",
-    "picoCTF-2019/web",
-    "picoCTF/General-Skills/2019/Untitled"
+    "picoCTF-2019/web"
   ]
 }
