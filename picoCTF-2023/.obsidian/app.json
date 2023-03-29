@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-419",
+    "es-MX"
+  ],
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
+}

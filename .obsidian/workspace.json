@@ -11,8 +11,12 @@
             "id": "3ddda990730fa25b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF-2023/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF-2023/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF-2023/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF-2023/README.md"
+              }
             }
           }
         ]
@@ -140,6 +148,10 @@
   },
   "active": "3ddda990730fa25b",
   "lastOpenFiles": [
+    "picoCTF-2023/Web-Exploitation/01-MatchTheRegex.md",
+    "picoCTF-2023/Cryptography/03-HideToSee.md",
+    "picoCTF-2023/Cryptography/01-rotation.md",
+    "picoCTF-2023",
     "Plantilla-picoCTF.md",
     "Retos.md",
     "Actividad 09-Retos forensic parte 2/05-shark on wire 2.md",
@@ -176,14 +188,11 @@
     "Actividad 05-Retos web parte 1/05-picobrowser.md",
     "Actividad 07-Retos web parte 3",
     "Pasted image 20230315143822.png.md",
-    "retos-bandit/Level 32 al 33.md",
-    "retos-bandit/Level 14 al 15.md",
     "Actividad 06-Retos web parte 2",
     "Actividad 05-Retos web parte 1",
     "ExamenParcial_01",
     "picoCTF-2019/Binary-Exploitation/2019",
     "picoCTF-2019/Binary-Exploitation",
-    "picoCTF-2019/web/2019",
-    "picoCTF-2019/web"
+    "picoCTF-2019/web/2019"
   ]
 }
