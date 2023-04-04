@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb23ccb93a0a3af",
+        "id": "e307edb8bf66db82",
         "type": "tabs",
         "children": [
           {
-            "id": "3ddda990730fa25b",
+            "id": "3fccbef7bf7ffde7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF-2023/README.md",
+                "file": "Plantilla-picoCTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF-2023/README.md",
+                "file": "Plantilla-picoCTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF-2023/README.md",
+                "file": "Plantilla-picoCTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF-2023/README.md"
+                "file": "Plantilla-picoCTF.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3b8dcc7da75e0c11",
+  "active": "3fccbef7bf7ffde7",
   "lastOpenFiles": [
+    "picoCTF-2023/README.md",
+    "Actividad 10-Retos forensic parte 3/05-MacroHard WeakEdge.md",
+    "Plantilla-picoCTF.md",
+    "Actividad 10-Retos forensic parte 3/04-tunn3l v1s10n.md",
+    "Actividad 09-Retos forensic parte 2/03-c0rrupt.md",
+    "Actividad 09-Retos forensic parte 2/04-like1000.md",
+    "Actividad 09-Retos forensic parte 2/05-shark on wire 2.md",
+    "Actividad 08-Retos forensic parte 1/02-So Meta.md",
+    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
+    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
+    "Actividad 09-Retos forensic parte 2/02-WhitePages.md",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141616.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141442.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141104.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404140429.png",
+    "Actividad 10-Retos forensic parte 3/03-Matryoshka doll.md",
+    "picoCTF-2023/Forensics/01-hideme.md",
+    "Actividad 10-Retos forensic parte 3/02-WebNet1.md",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404131218.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404130746.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404130223.png",
+    "Actividad 10-Retos forensic parte 3/01-WebNet0.md",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404125917.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404124335.png",
+    "Actividad 10-Retos forensic parte 3/Pasted image 20230404124247.png",
+    "Actividad 10-Retos forensic parte 3",
     "picoCTF-2023/General-Skills/06-chrono.md",
     "picoCTF-2023/Web-Exploitation/01-MatchTheRegex.md",
     "picoCTF-2023/Cryptography/03-HideToSee.md",
     "picoCTF-2023/Cryptography/01-rotation.md",
     "picoCTF-2023",
-    "Plantilla-picoCTF.md",
     "Retos.md",
-    "Actividad 09-Retos forensic parte 2/05-shark on wire 2.md",
-    "Actividad 09-Retos forensic parte 2/04-like1000.md",
-    "Actividad 09-Retos forensic parte 2/03-c0rrupt.md",
-    "Actividad 09-Retos forensic parte 2/02-WhitePages.md",
     "Actividad 09-Retos forensic parte 2/01-m00nwalk.md",
-    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328211533.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210818.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210356.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328210310.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328205421.png",
-    "Actividad 08-Retos forensic parte 1/02-So Meta.md",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230328130642.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230326221716.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230326221420.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230326215821.png",
-    "Actividad 09-Retos forensic parte 2/Pasted image 20230326215222.png",
     "README.md",
     "Actividad 09-Retos forensic parte 2",
-    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
     "Actividad 08-Retos forensic parte 1/04-extensions.md",
     "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
     "Actividad 08-Retos forensic parte 1",
     "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
     "Actividad 07-Retos web parte 3/02-Cookies.md",
-    "Actividad 07-Retos web parte 3/01-GET aHEAD.md",
-    "Actividad 06-Retos web parte 2/4-JaWT Scratchpad.md",
-    "Actividad 06-Retos web parte 2/03-Irish-Name-Repo 3.md",
-    "Actividad 06-Retos web parte 2/02-Irish-Name-Repo 2.md",
-    "Actividad 06-Retos web parte 2/01-Irish-Name-Repo 1.md",
-    "Actividad 05-Retos web parte 1/02-where are the robots.md",
-    "Actividad 05-Retos web parte 1/05-picobrowser.md",
     "Actividad 07-Retos web parte 3",
     "Actividad 06-Retos web parte 2",
     "Actividad 05-Retos web parte 1",
     "ExamenParcial_01",
     "picoCTF-2019/Binary-Exploitation/2019",
-    "picoCTF-2019/Binary-Exploitation",
-    "picoCTF-2019/web/2019"
+    "picoCTF-2019/Binary-Exploitation"
   ]
 }
