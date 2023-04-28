@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "040dc0f62982e3ba",
+            "id": "f8c0e197a4ba849e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md",
+                "file": "ExamenParcial_02/Forensic/07-Lookey here.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md",
+                "file": "ExamenParcial_02/Forensic/07-Lookey here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md",
+                "file": "ExamenParcial_02/Forensic/07-Lookey here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md"
+                "file": "ExamenParcial_02/Forensic/07-Lookey here.md"
               }
             }
           }
@@ -159,53 +159,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "040dc0f62982e3ba",
+  "active": "f8c0e197a4ba849e",
   "lastOpenFiles": [
-    "Actividad 12-Retos Crypto Parte 2/02-miniRSA.md",
-    "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md",
-    "Actividad 12-Retos Crypto Parte 2/01-rsa-pop-quiz.md",
-    "ExamenParcial_02/web/04-Search source.md",
+    "ExamenParcial_02/Forensic/06-St3g0.md",
+    "ExamenParcial_02/Forensic/05-Redaction gone wrong.md",
+    "ExamenParcial_02/Forensic/04-Packets Primer.md",
+    "ExamenParcial_02/Forensic/03-Enhance!.md",
+    "ExamenParcial_02/Forensic/02-Wireshark doo dooo do doo....md",
+    "ExamenParcial_02/Forensic/01- information.md",
+    "ExamenParcial_02/Forensic/07-Lookey here.md",
     "Plantilla-picoCTF.md",
-    "ExamenParcial_02/web/03-Local Authority.md",
-    "ExamenParcial_02/web/02-Inspect HTML.md",
-    "ExamenParcial_02/web/01-Includes.md",
-    "ExamenParcial_02/web",
-    "ExamenParcial_02",
-    "Actividad 12-Retos Crypto Parte 2",
-    "Actividad 11-Retos Crypto Parte 1/07-waves over lambda.md",
-    "Actividad 11-Retos Crypto Parte 1/Pasted image 20230420132237.png",
-    "Actividad 11-Retos Crypto Parte 1/Pasted image 20230420140643.png",
-    "Actividad 11-Retos Crypto Parte 1/Pasted image 20230420115010.png",
-    "Actividad 11-Retos Crypto Parte 1/06-Tapping.md",
-    "Actividad 11-Retos Crypto Parte 1/05-la cifra de.md",
-    "Actividad 11-Retos Crypto Parte 1/04-caesar.md",
-    "Actividad 11-Retos Crypto Parte 1/03-13.md",
-    "Actividad 11-Retos Crypto Parte 1/02-Easy1.md",
-    "Actividad 11-Retos Crypto Parte 1/01-The Numbers.md",
-    "().md",
-    "Actividad 11-Retos Crypto Parte 1",
+    "ExamenParcial_02/Forensic/Pasted image 20230427200104.png",
+    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
+    "Actividad 08-Retos forensic parte 1/04-extensions.md",
+    "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
     "Actividad 10-Retos forensic parte 3/05-MacroHard WeakEdge.md",
     "Actividad 10-Retos forensic parte 3/04-tunn3l v1s10n.md",
     "Actividad 10-Retos forensic parte 3/03-Matryoshka doll.md",
     "Actividad 10-Retos forensic parte 3/02-WebNet1.md",
-    "picoCTF-2023/README.md",
-    "Actividad 09-Retos forensic parte 2/03-c0rrupt.md",
+    "Actividad 10-Retos forensic parte 3/01-WebNet0.md",
     "Actividad 09-Retos forensic parte 2/04-like1000.md",
     "Actividad 09-Retos forensic parte 2/05-shark on wire 2.md",
+    "Actividad 09-Retos forensic parte 2/01-m00nwalk.md",
+    "Actividad 08-Retos forensic parte 1/05- What Lies Within.md",
+    "ExamenParcial_02/Forensic/Pasted image 20230427193300.png",
+    "ExamenParcial_02/Forensic/Pasted image 20230427193152.png",
     "Actividad 08-Retos forensic parte 1/02-So Meta.md",
-    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141616.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141442.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404141104.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404140429.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404131218.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404130746.png",
-    "Actividad 10-Retos forensic parte 3/Pasted image 20230404130223.png",
+    "ExamenParcial_02/Forensic",
+    "ExamenParcial_02/Web/10-SQLiLite.md",
+    "ExamenParcial_02/Web/Pasted image 20230427190314.png",
+    "ExamenParcial_02/Web/09-SQL Direct.md",
+    "ExamenParcial_02/Web/08-Secrets.md",
+    "ExamenParcial_02/Web/07-Roboto Sans.md",
+    "ExamenParcial_02/Web/06-Power Cookie.md",
+    "ExamenParcial_02/Web/Pasted image 20230427124243.png",
+    "ExamenParcial_02/Web/Pasted image 20230427123150.png",
+    "ExamenParcial_02/Web/Pasted image 20230427121310.png",
+    "ExamenParcial_02/Web/Pasted image 20230427121158.png",
+    "ExamenParcial_02/Web/Pasted image 20230427120506.png",
+    "ExamenParcial_02/Web/Pasted image 20230427120424.png",
+    "Actividad 13-Retos Crypto Parte 3",
+    "ExamenParcial_02/Web",
+    "ExamenParcial_02",
+    "Actividad 12-Retos Crypto Parte 2",
+    "Actividad 11-Retos Crypto Parte 1",
     "Actividad 10-Retos forensic parte 3",
     "picoCTF-2023",
     "Actividad 09-Retos forensic parte 2",
-    "Actividad 08-Retos forensic parte 1",
-    "Actividad 07-Retos web parte 3",
-    "Actividad 06-Retos web parte 2"
+    "Actividad 08-Retos forensic parte 1"
   ]
 }
