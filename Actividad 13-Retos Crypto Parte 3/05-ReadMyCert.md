@@ -1,11 +1,13 @@
-## Descripción:
+# ReadMyCert
+
+## Descripción: 
 How about we take you on an adventure on exploring certificate signing requests Take a look at this CSR file here.
 
-**Hints:**
+**Pistas:**
 1. Download the certificate signing request and try to read it.
 
 ## Solución:
-- Para obtener la solucion de este reto, se descargo el archivo `readmycert.csr`. Al leerlo nos da lo siguiente:
+- Para obtener la solución de este reto, se descargo el archivo `readmycert.csr`. Al leerlo nos da lo siguiente:
 
 ```bash
 -----BEGIN CERTIFICATE REQUEST-----
@@ -28,12 +30,11 @@ t0SpVnQ18utRsf0=
 
 ```
 
-- Para obtener la flag, hay que utilizar un decodificador de CSR, por lo que se utilizara la pagina [Decodificador CSR](https://es.rakko.tools/tools/42/). Al decodificar el texto, nos dara la flag. 
+- Para obtener la flag, hay que utilizar un decodificador de CSR, por lo que se utilizara la pagina [Decodificador CSR](https://es.rakko.tools/tools/42/). Al decodificar el texto, nos dará la flag. 
 
 ### Flag: picoCTF{read_mycert_cda8cb26}
 
 ## Notas adicionales:
-
 | Abreviación | Descripción |
 | --- | --- |
 | CSR | Solicitud de firma de certificado |
