@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4bca53bc4db231b0",
+            "id": "1119d269854e4fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
+                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
+                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
+                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md"
+                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md"
               }
             }
           }
@@ -167,13 +167,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4bca53bc4db231b0",
+  "active": "1119d269854e4fb7",
   "lastOpenFiles": [
-    "Actividad 14-Retos Reversing Parte 1/03-vault-door-3.md",
-    "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
+    "Actividad 15-Retos Reversing Parte 2/Pasted image 20230508224748.png",
+    "Actividad 15-Retos Reversing Parte 2/02-asm2.md",
+    "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
     "Plantilla-picoCTF.md",
+    "Actividad 15-Retos Reversing Parte 2/01-asm1.md",
+    "Actividad 15-Retos Reversing Parte 2",
+    "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
     "Actividad 14-Retos Reversing Parte 1/02-vault-door-1.md",
     "Actividad 14-Retos Reversing Parte 1/01-vault-door-training.md",
+    "Actividad 14-Retos Reversing Parte 1/03-vault-door-3.md",
     "Actividad 13-Retos Crypto Parte 3/01-Mind your Ps and Qs.md",
     "Actividad 13-Retos Crypto Parte 3/02-Pixelated.md",
     "Actividad 13-Retos Crypto Parte 3/05-ReadMyCert.md",
@@ -195,10 +200,6 @@
     "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
     "Actividad 08-Retos forensic parte 1/04-extensions.md",
     "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
-    "Actividad 10-Retos forensic parte 3/05-MacroHard WeakEdge.md",
-    "Actividad 10-Retos forensic parte 3/04-tunn3l v1s10n.md",
-    "Actividad 10-Retos forensic parte 3/03-Matryoshka doll.md",
-    "Actividad 10-Retos forensic parte 3/02-WebNet1.md",
     "ExamenParcial_02/Forensic/Pasted image 20230427193300.png",
     "ExamenParcial_02/Forensic/Pasted image 20230427193152.png",
     "ExamenParcial_02/Forensic",
@@ -213,7 +214,6 @@
     "Actividad 12-Retos Crypto Parte 2",
     "Actividad 11-Retos Crypto Parte 1",
     "Actividad 10-Retos forensic parte 3",
-    "picoCTF-2023",
-    "Actividad 09-Retos forensic parte 2"
+    "picoCTF-2023"
   ]
 }
