@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "1119d269854e4fb7",
+            "id": "a7c9cc4975c38505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
+                "file": "picoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a765ca2cd434485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad 16-Retos Reversing Parte 3/04-Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,8 +75,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
+                "file": "Actividad 16-Retos Reversing Parte 3/04-Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
+                "file": "Actividad 16-Retos Reversing Parte 3/04-Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 15-Retos Reversing Parte 2/03-asm3.md"
+                "file": "Actividad 16-Retos Reversing Parte 3/04-Safe Opener 2.md"
               }
             }
           }
@@ -167,12 +179,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1119d269854e4fb7",
+  "active": "7a765ca2cd434485",
   "lastOpenFiles": [
+    "picoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
+    "Actividad 16-Retos Reversing Parte 3/04-Safe Opener 2.md",
+    "Plantilla-picoCTF.md",
+    "Actividad 16-Retos Reversing Parte 3/03-reverse_cipher.md",
+    "Actividad 16-Retos Reversing Parte 3/02-GDB Test Drive.md",
+    "Actividad 16-Retos Reversing Parte 3/01-Need For Speed.md",
+    "Untitled.canvas",
+    "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
+    "Actividad 16-Retos Reversing Parte 3",
     "Actividad 15-Retos Reversing Parte 2/Pasted image 20230508224748.png",
     "Actividad 15-Retos Reversing Parte 2/02-asm2.md",
-    "Actividad 15-Retos Reversing Parte 2/03-asm3.md",
-    "Plantilla-picoCTF.md",
     "Actividad 15-Retos Reversing Parte 2/01-asm1.md",
     "Actividad 15-Retos Reversing Parte 2",
     "Actividad 14-Retos Reversing Parte 1/04-vault-door-4.md",
@@ -195,11 +214,7 @@
     "ExamenParcial_02/Forensic/04-Packets Primer.md",
     "ExamenParcial_02/Forensic/03-Enhance!.md",
     "ExamenParcial_02/Forensic/02-Wireshark doo dooo do doo....md",
-    "ExamenParcial_02/Forensic/01- information.md",
     "ExamenParcial_02/Forensic/Pasted image 20230427200104.png",
-    "Actividad 08-Retos forensic parte 1/03-shark on wire 1.md",
-    "Actividad 08-Retos forensic parte 1/04-extensions.md",
-    "Actividad 08-Retos forensic parte 1/01-Glory of the Garden.md",
     "ExamenParcial_02/Forensic/Pasted image 20230427193300.png",
     "ExamenParcial_02/Forensic/Pasted image 20230427193152.png",
     "ExamenParcial_02/Forensic",
@@ -207,13 +222,11 @@
     "ExamenParcial_02/Web/Pasted image 20230427124243.png",
     "ExamenParcial_02/Web/Pasted image 20230427123150.png",
     "ExamenParcial_02/Web/Pasted image 20230427121310.png",
-    "ExamenParcial_02/Web/Pasted image 20230427121158.png",
     "Actividad 13-Retos Crypto Parte 3",
     "ExamenParcial_02/Web",
     "ExamenParcial_02",
     "Actividad 12-Retos Crypto Parte 2",
     "Actividad 11-Retos Crypto Parte 1",
-    "Actividad 10-Retos forensic parte 3",
-    "picoCTF-2023"
+    "Actividad 10-Retos forensic parte 3"
   ]
 }
