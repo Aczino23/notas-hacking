@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c31f8231a58359e2",
+            "id": "e741da1953b103d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "c964f1ee678bec27",
+            "id": "c31f8231a58359e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e194bb4c397de5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 17-Retos Binary Explotation Parte 1/02-buffer overflow 0.md",
+                "file": "Actividad 18-Retos Binary Explotation Parte 2/02-Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md",
+                "file": "Actividad 18-Retos Binary Explotation Parte 2/02-Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md",
+                "file": "Actividad 18-Retos Binary Explotation Parte 2/02-Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md"
+                "file": "Actividad 18-Retos Binary Explotation Parte 2/02-Stonks.md"
               }
             }
           }
@@ -179,11 +167,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c964f1ee678bec27",
+  "active": "c31f8231a58359e2",
   "lastOpenFiles": [
-    "Actividad 17-Retos Binary Explotation Parte 1/02-buffer overflow 0.md",
-    "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md",
     "Plantilla-picoCTF.md",
+    "Actividad 18-Retos Binary Explotation Parte 2/02-Stonks.md",
+    "Actividad 18-Retos Binary Explotation Parte 2/01-flag leak.md",
+    "Actividad 18-Retos Binary Explotation Parte 2",
+    "Actividad 17-Retos Binary Explotation Parte 1/03-buffer overflow 1.md",
+    "Actividad 17-Retos Binary Explotation Parte 1/02-buffer overflow 0.md",
     "Actividad 17-Retos Binary Explotation Parte 1/01-basic-file-exploit.md",
     "Untitled.canvas",
     "picoCTF-2023/Reverse-Engineering/02-Safe Opener 2.md",
@@ -213,8 +204,6 @@
     "picoCTF-2023/Cryptography/02 - ReadMyCert.md",
     "picoCTF-2023/Cryptography/03-HideToSee.md",
     "ExamenParcial_02/Forensic/07-Lookey here.md",
-    "ExamenParcial_02/Forensic/06-St3g0.md",
-    "ExamenParcial_02/Forensic/05-Redaction gone wrong.md",
     "ExamenParcial_02/Forensic/Pasted image 20230427200104.png",
     "ExamenParcial_02/Forensic/Pasted image 20230427193300.png",
     "ExamenParcial_02/Forensic/Pasted image 20230427193152.png",
@@ -226,7 +215,6 @@
     "Actividad 13-Retos Crypto Parte 3",
     "ExamenParcial_02/Web",
     "ExamenParcial_02",
-    "Actividad 12-Retos Crypto Parte 2",
-    "Actividad 11-Retos Crypto Parte 1"
+    "Actividad 12-Retos Crypto Parte 2"
   ]
 }
