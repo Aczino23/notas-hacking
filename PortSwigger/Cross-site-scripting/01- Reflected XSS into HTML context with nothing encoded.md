@@ -12,11 +12,11 @@ To solve the lab, perform a cross-site scripting attack that calls theÂ `alert`Â
 <script>alert(1)</script>
 ```
 
-![[Pasted image 20230627135008.png]]
+![Pasted image 20230627135214](Pasted%20image%2020230627135214.png)
 
 2. Haga clic en "Buscar".
 
-![[Pasted image 20230627135029.png]]
+
 
 ## Notas adicionales:
 

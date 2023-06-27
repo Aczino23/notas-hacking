@@ -7,6 +7,7 @@
     "es-MX"
   ],
   "readableLineLength": true,
-  "useMarkdownLinks": false,
-  "attachmentFolderPath": "PortSwigger/Cross-site-scripting/img"
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "PortSwigger/Cross-site-scripting/img",
+  "alwaysUpdateLinks": true
 }
