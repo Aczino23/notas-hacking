@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d46c328187d4098",
+        "id": "794ae0161d264d84",
         "type": "tabs",
         "children": [
           {
-            "id": "ef525a7bc5f1a852",
+            "id": "9bfc0a3f847be437",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla-picoCTF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38fc013a29e7ed6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExamenParcial_03/Reversing/07-GDB baby step 2.md",
+                "file": "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExamenParcial_03/Reversing/07-GDB baby step 2.md",
+                "file": "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExamenParcial_03/Reversing/07-GDB baby step 2.md"
+                "file": "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md"
               }
             }
           }
@@ -150,54 +167,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3b8dcc7da75e0c11",
+  "active": "38fc013a29e7ed6a",
   "lastOpenFiles": [
-    "ExamenParcial_03/Binary Explotation/01-Picker IV.md",
-    "ExamenParcial_03/Binary Explotation/02-Local Target.md",
-    "ExamenParcial_03/Binary Explotation/04-two-sum.md",
-    "ExamenParcial_03/Binary Explotation/03-clutter-overflow.md",
-    "ExamenParcial_03/Reversing/06-GDB baby step 1.md",
-    "ExamenParcial_03/Reversing/05-Bit-O-Asm-4.md",
+    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627133653.png",
+    "PortSwigger/Cross-site-scripting/img",
+    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627133553.png",
     "Plantilla-picoCTF.md",
-    "ExamenParcial_03/Reversing/07-GDB baby step 2.md",
+    "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md",
+    "PortSwigger/SQL_injection/05-SQL injection UNION attack, retrieving data from other tables.md",
+    "PortSwigger/Cross-site-scripting",
+    "PortSwigger/SQL_injection/04-SQL injection UNION attack, finding a column containing text.md",
+    "PortSwigger/SQL_injection/Pasted image 20230627132634.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627132557.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627132413.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627132202.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627132138.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627131908.png",
+    "PortSwigger/SQL_injection/Pasted image 20230627131827.png",
+    "PortSwigger/SQL_injection/Pasted image 20230626172143.png",
+    "PortSwigger/SQL_injection/Pasted image 20230626165018.png",
+    "PortSwigger/SQL_injection/03-SQL injection UNION attack.md",
+    "PortSwigger/SQL_injection/02-SQL injection vulnerability allowing login bypass.md",
+    "PortSwigger/SQL_injection/01-vulnerability in WHERE clause.md",
+    "CTF-BSidesIndore/Forensic/01-Can you WIN from EVT.md",
+    "PortSwigger/SQL_injection",
+    "Root Me/Web-Cliente/10-XSS - Stored 1.md",
+    "PortSwigger",
+    "Root Me/Plantilla-RootMe.md",
+    "Root Me/Web-Cliente/07-Javascript - Native code.md",
+    "Root Me/Web-Cliente/09-Javascript - Obfuscation 3.md",
+    "Root Me/Web-Cliente/03-Javascript - Source.md",
+    "Root Me/Web-Cliente/06-Javascript - Obfuscation 2.md",
+    "Root Me/Web-Cliente/08-Javascript - Webpack.md",
+    "Actividad 07-Retos web parte 3/03-Scavenger Hunt.md",
+    "Actividad 07-Retos web parte 3/02-Cookies.md",
+    "Actividad 07-Retos web parte 3/01-GET aHEAD.md",
+    "Actividad 06-Retos web parte 2/4-JaWT Scratchpad.md",
+    "Actividad 06-Retos web parte 2/03-Irish-Name-Repo 3.md",
+    "Actividad 06-Retos web parte 2/02-Irish-Name-Repo 2.md",
+    "Actividad 06-Retos web parte 2/01-Irish-Name-Repo 1.md",
+    "Actividad 05-Retos web parte 1/06-Client-side-again.md",
+    "Actividad 05-Retos web parte 1/05-picobrowser.md",
+    "Actividad 05-Retos web parte 1/04-dont-use-client-side.md",
+    "CTF-BSidesIndore/Forensic",
+    "CTF-BSidesIndore",
+    "Root Me/Web-Cliente",
+    "Root Me",
     "ExamenParcial_03/Binary Explotation",
-    "Actividad 16-Retos Reversing Parte 3/02-GDB Test Drive.md",
-    "ExamenParcial_03/Reversing/04-Bit-O-Asm-3.md",
-    "ExamenParcial_03/Reversing/03-Bit-O-Asm-2.md",
-    "ExamenParcial_03/Reversing/02-Bit-O-Asm-1.md",
-    "ExamenParcial_03/Reversing/01-ASCII FTW.md",
-    "ExamenParcial_03/Crypto/05-SRA.md",
     "ExamenParcial_03/Reversing",
-    "ExamenParcial_03/Crypto/04-Vigenere.md",
-    "Actividad 11-Retos Crypto Parte 1/05-la cifra de.md",
-    "Actividad 11-Retos Crypto Parte 1/03-13.md",
-    "Actividad 11-Retos Crypto Parte 1/02-Easy1.md",
-    "Actividad 13-Retos Crypto Parte 3/01-Mind your Ps and Qs.md",
-    "Actividad 13-Retos Crypto Parte 3/02-Pixelated.md",
-    "Actividad 13-Retos Crypto Parte 3/03-basic-mod1.md",
-    "Actividad 13-Retos Crypto Parte 3/05-ReadMyCert.md",
-    "Actividad 12-Retos Crypto Parte 2/03-b00tl3gRSA2.md",
-    "Actividad 11-Retos Crypto Parte 1/01-The Numbers.md",
-    "Actividad 11-Retos Crypto Parte 1/04-caesar.md",
-    "Actividad 11-Retos Crypto Parte 1/06-Tapping.md",
-    "ExamenParcial_03/Crypto/Pasted image 20230520161059.png",
-    "ExamenParcial_03/Crypto/Pasted image 20230518090422.png",
-    "ExamenParcial_03/Crypto/Pasted image 20230518090054.png",
-    "ExamenParcial_03/Crypto",
-    "ExamenParcial_03",
-    "Actividad 18-Retos Binary Explotation Parte 2",
-    "Untitled.canvas",
-    "Actividad 17-Retos Binary Explotation Parte 1",
-    "Actividad 16-Retos Reversing Parte 3",
-    "Actividad 15-Retos Reversing Parte 2/Pasted image 20230508224748.png",
-    "Actividad 15-Retos Reversing Parte 2",
-    "Actividad 13-Retos Crypto Parte 3/Pasted image 20230502171752.png",
-    "Actividad 13-Retos Crypto Parte 3/Pasted image 20230502171529.png",
-    "Actividad 14-Retos Reversing Parte 1",
-    "ExamenParcial_02/Forensic/Pasted image 20230427200104.png",
-    "ExamenParcial_02/Forensic/Pasted image 20230427193300.png",
-    "ExamenParcial_02/Forensic/Pasted image 20230427193152.png",
-    "ExamenParcial_02/Forensic",
-    "ExamenParcial_02/Web/Pasted image 20230427190314.png"
+    "Untitled.canvas"
   ]
 }
