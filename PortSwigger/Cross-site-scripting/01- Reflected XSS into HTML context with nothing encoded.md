@@ -8,15 +8,15 @@ To solve the lab, perform a cross-site scripting attack that calls the `alert`�
 ## Solución:
 1. Copie y pegue lo siguiente en el cuadro de búsqueda:
 
-```javascript
+```html
 <script>alert(1)</script>
 ```
 
-![Pasted image 20230627133553](Pasted%20image%2020230627133553.png)
+![[Pasted image 20230627135008.png]]
 
 2. Haga clic en "Buscar".
 
-![Pasted image 20230627133653](Pasted%20image%2020230627133653.png)
+![[Pasted image 20230627135029.png]]
 
 ## Notas adicionales:
 
