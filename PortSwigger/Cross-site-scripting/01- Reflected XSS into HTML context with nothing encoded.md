@@ -16,8 +16,7 @@ To solve the lab, perform a cross-site scripting attack that calls theÂ `alert`Â
 
 2. Haga clic en "Buscar".
 
-![[Pasted image 20230627135507.png]]
-
+![Pasted image 20230627135723](Pasted%20image%2020230627135723.png)
 
 ## Notas adicionales:
 
