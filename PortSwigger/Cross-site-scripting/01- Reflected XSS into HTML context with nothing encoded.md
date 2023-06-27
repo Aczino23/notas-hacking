@@ -18,7 +18,7 @@ To solve the lab, perform a cross-site scripting attack that calls theÂ `alert`Â
 
 ![Pasted image 20230627133653](Pasted%20image%2020230627133653.png)
 
-
+etryt
 ## Notas adicionales:
 
 
