@@ -169,9 +169,13 @@
   },
   "active": "38fc013a29e7ed6a",
   "lastOpenFiles": [
-    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135214.png",
-    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135152.png",
+    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135507.png",
+    "PortSwigger/Cross-site-scripting/img",
+    "PortSwigger/Cross-site-scripting/02-.md",
     "PortSwigger/Cross-site-scripting/01- Reflected XSS into HTML context with nothing encoded.md",
+    "PortSwigger/Cross-site-scripting/Pasted image 20230627135338.png",
+    "PortSwigger/Cross-site-scripting/Pasted image 20230627135214.png",
+    "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135152.png",
     "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135029.png",
     "PortSwigger/Cross-site-scripting/img/Pasted image 20230627135008.png",
     "PortSwigger/Cross-site-scripting/img/Pasted image 20230627133653.png",
@@ -184,8 +188,6 @@
     "PortSwigger/SQL_injection/Pasted image 20230627132634.png",
     "PortSwigger/SQL_injection/Pasted image 20230627132557.png",
     "PortSwigger/SQL_injection/Pasted image 20230627132413.png",
-    "PortSwigger/SQL_injection/Pasted image 20230627132202.png",
-    "PortSwigger/SQL_injection/Pasted image 20230627132138.png",
     "PortSwigger/SQL_injection/03-SQL injection UNION attack.md",
     "PortSwigger/SQL_injection/02-SQL injection vulnerability allowing login bypass.md",
     "PortSwigger/SQL_injection/01-vulnerability in WHERE clause.md",
@@ -208,13 +210,11 @@
     "Actividad 06-Retos web parte 2/01-Irish-Name-Repo 1.md",
     "Actividad 05-Retos web parte 1/06-Client-side-again.md",
     "Actividad 05-Retos web parte 1/05-picobrowser.md",
-    "Actividad 05-Retos web parte 1/04-dont-use-client-side.md",
     "CTF-BSidesIndore/Forensic",
     "CTF-BSidesIndore",
     "Root Me/Web-Cliente",
     "Root Me",
     "ExamenParcial_03/Binary Explotation",
-    "ExamenParcial_03/Reversing",
     "Untitled.canvas"
   ]
 }
