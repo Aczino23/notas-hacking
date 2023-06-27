@@ -8,5 +8,5 @@
   ],
   "readableLineLength": true,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "PortSwigger/Cross-site-scripting/img"
 }
